@@ -7,4 +7,8 @@
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.32.4/sweetalert2.js"></script>
 <script type="text/javascript">
   $('.button-collapse').sideNav();
+  function may(obj, id){
+    obj = obj.toUpperCase();
+    document.getElementById(id).value=obj;
+  }
 </script>

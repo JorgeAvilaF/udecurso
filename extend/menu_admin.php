@@ -1,4 +1,4 @@
-<nav>
+<nav class="black">
   <a href="" data-activates="menu" class="button-collapse"><i class="material-icons">menu </i></a>
 </nav>
     <ul id="menu" class="side-nav fixed">

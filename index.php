@@ -13,10 +13,10 @@
 </head>
   <body>
 <nav>
-    <a href="" data-activates="menu" class="button-collapse"><i class="material-icons">menu </i></a>
-</nav>
+  <a href="" data-activates="menu" class="button-collapse"><i class="material-icons">menu </i></a>
 
-    <ul id="menu" class="side-nav">
+</nav>
+    <ul id="menu" class="side-nav fixed" >
       <li>
         <div class="userView">
         <div class="background">
